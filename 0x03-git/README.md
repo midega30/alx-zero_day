@@ -1,1 +1,1 @@
-More learning on git 
+Diving deeper on how to use git
